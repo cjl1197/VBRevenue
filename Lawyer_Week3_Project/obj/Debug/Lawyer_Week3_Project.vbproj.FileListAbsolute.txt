@@ -1,0 +1,24 @@
+C:\Users\lawyerc\OneDrive - Aiken Technical College\Desktop\Spring Semester 2022\CPT 212 VB\Week3\Lawyer_Week3_Project\Lawyer_Week3_Project\bin\Debug\Lawyer_Week3_Project.exe.config
+C:\Users\lawyerc\OneDrive - Aiken Technical College\Desktop\Spring Semester 2022\CPT 212 VB\Week3\Lawyer_Week3_Project\Lawyer_Week3_Project\bin\Debug\Lawyer_Week3_Project.exe
+C:\Users\lawyerc\OneDrive - Aiken Technical College\Desktop\Spring Semester 2022\CPT 212 VB\Week3\Lawyer_Week3_Project\Lawyer_Week3_Project\bin\Debug\Lawyer_Week3_Project.pdb
+C:\Users\lawyerc\OneDrive - Aiken Technical College\Desktop\Spring Semester 2022\CPT 212 VB\Week3\Lawyer_Week3_Project\Lawyer_Week3_Project\bin\Debug\Lawyer_Week3_Project.xml
+C:\Users\lawyerc\OneDrive - Aiken Technical College\Desktop\Spring Semester 2022\CPT 212 VB\Week3\Lawyer_Week3_Project\Lawyer_Week3_Project\obj\Debug\Lawyer_Week3_Project.vbprojAssemblyReference.cache
+C:\Users\lawyerc\OneDrive - Aiken Technical College\Desktop\Spring Semester 2022\CPT 212 VB\Week3\Lawyer_Week3_Project\Lawyer_Week3_Project\obj\Debug\Lawyer_Week3_Project.frmStudioRevenue.resources
+C:\Users\lawyerc\OneDrive - Aiken Technical College\Desktop\Spring Semester 2022\CPT 212 VB\Week3\Lawyer_Week3_Project\Lawyer_Week3_Project\obj\Debug\Lawyer_Week3_Project.Resources.resources
+C:\Users\lawyerc\OneDrive - Aiken Technical College\Desktop\Spring Semester 2022\CPT 212 VB\Week3\Lawyer_Week3_Project\Lawyer_Week3_Project\obj\Debug\Lawyer_Week3_Project.vbproj.GenerateResource.cache
+C:\Users\lawyerc\OneDrive - Aiken Technical College\Desktop\Spring Semester 2022\CPT 212 VB\Week3\Lawyer_Week3_Project\Lawyer_Week3_Project\obj\Debug\Lawyer_Week3_Project.vbproj.CoreCompileInputs.cache
+C:\Users\lawyerc\OneDrive - Aiken Technical College\Desktop\Spring Semester 2022\CPT 212 VB\Week3\Lawyer_Week3_Project\Lawyer_Week3_Project\obj\Debug\Lawyer_Week3_Project.exe
+C:\Users\lawyerc\OneDrive - Aiken Technical College\Desktop\Spring Semester 2022\CPT 212 VB\Week3\Lawyer_Week3_Project\Lawyer_Week3_Project\obj\Debug\Lawyer_Week3_Project.xml
+C:\Users\lawyerc\OneDrive - Aiken Technical College\Desktop\Spring Semester 2022\CPT 212 VB\Week3\Lawyer_Week3_Project\Lawyer_Week3_Project\obj\Debug\Lawyer_Week3_Project.pdb
+C:\Users\TARDIS\Desktop\Spring Semester 2022\CPT 212 VB\Week 3\Lawyer_Week3_Project\Lawyer_Week3_Project\bin\Debug\Lawyer_Week3_Project.exe.config
+C:\Users\TARDIS\Desktop\Spring Semester 2022\CPT 212 VB\Week 3\Lawyer_Week3_Project\Lawyer_Week3_Project\bin\Debug\Lawyer_Week3_Project.exe
+C:\Users\TARDIS\Desktop\Spring Semester 2022\CPT 212 VB\Week 3\Lawyer_Week3_Project\Lawyer_Week3_Project\bin\Debug\Lawyer_Week3_Project.pdb
+C:\Users\TARDIS\Desktop\Spring Semester 2022\CPT 212 VB\Week 3\Lawyer_Week3_Project\Lawyer_Week3_Project\bin\Debug\Lawyer_Week3_Project.xml
+C:\Users\TARDIS\Desktop\Spring Semester 2022\CPT 212 VB\Week 3\Lawyer_Week3_Project\Lawyer_Week3_Project\obj\Debug\Lawyer_Week3_Project.frmStudioRevenue.resources
+C:\Users\TARDIS\Desktop\Spring Semester 2022\CPT 212 VB\Week 3\Lawyer_Week3_Project\Lawyer_Week3_Project\obj\Debug\Lawyer_Week3_Project.Resources.resources
+C:\Users\TARDIS\Desktop\Spring Semester 2022\CPT 212 VB\Week 3\Lawyer_Week3_Project\Lawyer_Week3_Project\obj\Debug\Lawyer_Week3_Project.vbproj.GenerateResource.cache
+C:\Users\TARDIS\Desktop\Spring Semester 2022\CPT 212 VB\Week 3\Lawyer_Week3_Project\Lawyer_Week3_Project\obj\Debug\Lawyer_Week3_Project.vbproj.CoreCompileInputs.cache
+C:\Users\TARDIS\Desktop\Spring Semester 2022\CPT 212 VB\Week 3\Lawyer_Week3_Project\Lawyer_Week3_Project\obj\Debug\Lawyer_Week3_Project.exe
+C:\Users\TARDIS\Desktop\Spring Semester 2022\CPT 212 VB\Week 3\Lawyer_Week3_Project\Lawyer_Week3_Project\obj\Debug\Lawyer_Week3_Project.xml
+C:\Users\TARDIS\Desktop\Spring Semester 2022\CPT 212 VB\Week 3\Lawyer_Week3_Project\Lawyer_Week3_Project\obj\Debug\Lawyer_Week3_Project.pdb
+C:\Users\TARDIS\Desktop\Spring Semester 2022\CPT 212 VB\Week 3\Lawyer_Week3_Project\Lawyer_Week3_Project\obj\Debug\Lawyer_Week3_Project.vbprojAssemblyReference.cache
